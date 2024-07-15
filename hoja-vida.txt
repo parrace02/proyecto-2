@@ -1,4 +1,5 @@
 Nombre Andres Francisco 
 Apellido: Parra Acevedo
-Edad:39 años
+Edad:39 años y 4 meses
 yo naci en Bucaramanga el 4 de febrero del año 1985
+Actual mente estoy viviendo en Bucaramanga
