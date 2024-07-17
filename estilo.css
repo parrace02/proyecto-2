@@ -13,9 +13,22 @@ html {
     background-color: rgb(196, 231, 210);
     font-family: 'Courier New', Courier, monospace;
 }
-.box2 {
-    background-color: red;
+.cabecera {
+    background-color: rgb(255, 153, 0);
+    border-radius: 1.3rem;
+    margin: 0;
+    padding: 1.3rem;
+    color: beige;
 }
-.box3 {
-    background-color: greenyellow;
+.box2
+{
+    background-color: blue;
+}
+h1 {
+    color: aliceblue;
+    font-size: 1.1rem;
+}
+p {
+    font-size: 0.5rem;
+    color: rgb(104, 21, 238);
 }
