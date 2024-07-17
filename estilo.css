@@ -9,12 +9,20 @@ html {
 .box1 {
     text-align: center;   
     border: 2px black dotted;
-    display: inline-block; 
-    background-color: rgb(196, 231, 210);
+    display: flex;         
 }
-.box2 {
-    background-color: red;
+.cabecera {
+    background-color: rgb(255, 153, 0);
 }
-.box3 {
-    background-color: greenyellow;
+.box2
+{
+    background-color: blue;
+}
+h1 {
+    color: aliceblue;
+    font-size: 1.1rem;
+}
+p {
+    font-size: 0.5rem;
+    color: rgb(238, 238, 21);
 }
